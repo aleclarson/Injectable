@@ -1,0 +1,10 @@
+{
+  "version": 3,
+  "file": "Injectable.js",
+  "sourceRoot": "../../src",
+  "sources": [
+    "Injectable.coffee"
+  ],
+  "names": [],
+  "mappings": "AACA,IAAA;;AAAA,aAAA,GAAgB,OAAA,CAAQ,eAAR;;AAChB,OAAA,GAAU,OAAA,CAAQ,SAAR;;AAEV,MAAM,CAAC,OAAP,GACA,UAAA,GAAa,aAAA,CAAc,YAAd,EAA4B,SAAC,KAAD;AAEvC,MAAA;EAAA,IAAA,GAEE;IAAA,GAAA,EAAK,SAAA;aAAG;IAAH,CAAL;IAEA,MAAA,EAAQ,SAAC,QAAD;MACN,KAAA,GAAQ;IADF,CAFR;;SAMF,OAAA,CAAQ,IAAR,EAAc,UAAd;AAVuC,CAA5B"
+}

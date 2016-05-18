@@ -1,0 +1,19 @@
+{
+  "name": "Injectable",
+  "version": "1.0.0",
+  "main": "js/src/index",
+  "dependencies": {
+    "NamedFunction": "aleclarson/NamedFunction#2.0.0",
+    "assert": "aleclarson/assert#1.0.0",
+    "assertType": "aleclarson/assertType#1.0.0",
+    "isDev": "aleclarson/isDev#1.0.0",
+    "isType": "aleclarson/isType#1.0.0",
+    "setType": "aleclarson/setType#1.0.0",
+    "steal": "aleclarson/steal#1.0.0"
+  },
+  "lotus": {
+    "plugins": [
+      "lotus-coffee"
+    ]
+  }
+}
