@@ -17,4 +17,4 @@ module.exports = Injectable = NamedFunction("Injectable", function(value) {
   return setType(self, Injectable);
 });
 
-//# sourceMappingURL=../../map/src/Injectable.map
+//# sourceMappingURL=map/Injectable.map
