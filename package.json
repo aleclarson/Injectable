@@ -1,14 +1,5 @@
 {
   "name": "Injectable",
   "version": "1.0.0",
-  "main": "js/Injectable",
-  "dependencies": {
-    "NamedFunction": "aleclarson/NamedFunction#2.0.0",
-    "setType": "aleclarson/setType#1.0.0"
-  },
-  "lotus": {
-    "plugins": [
-      "lotus-coffee"
-    ]
-  }
+  "main": "Injectable.js"
 }
